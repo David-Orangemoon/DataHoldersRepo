@@ -1,0 +1,14 @@
+{
+    "IntheFieldOfTheDamned":{
+        "FallBackMessage":"All of the other souls have perished.",
+        "servers":[
+            {"ip":"wss://9d64-66-209-139-27.ngrok.io", "name":"D7 Official Server"}
+        ]
+    },
+    "ShockwaveCS":{
+        "FallBackMessage":"Sorry buddy! You don't seem to have any servers.",
+        "servers":[
+            {"ip":"wss://9d64-66-209-139-27.ngrok.io", "name":"D7 Official Server"}
+        ]
+    }
+}
