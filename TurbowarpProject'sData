@@ -1,12 +1,13 @@
 {
     "IntheFieldOfTheDamned":{
         "FallBackMessage":"All of the other souls have perished.",
+        "GameWideOperaters":["Obviousalexc"],
         "servers":[
-            {"ip":"wss://6263-66-209-139-27.ngrok.io", "name":"D7 Official Server"}
+            {"ip":"wss://6263-66-209-139-27.ngrok.io", "name":"D7 Official Server", "ServerOps":[]}
         ]
     },
     "ShockwaveCS":{
-        "FallBackMessage":"The bomb could not be defused!",
+        "FallBackMessage":"This bomb could not be defused!",
         "servers":[
             {"ip":"wss://6263-66-209-139-27.ngrok.io", "name":"D7 Official Server"}
         ]
